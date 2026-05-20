@@ -5,9 +5,7 @@ class Usuario:
         self.edad = edad
 
     def es_mayor_edad(self):
-        if self.edad >=18 :
-            return True
-        return False
+        pass
 
     def actualizar_edad(self, nueva_edad):
         pass
